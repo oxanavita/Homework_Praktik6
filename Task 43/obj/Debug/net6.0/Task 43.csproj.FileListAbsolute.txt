@@ -1,0 +1,15 @@
+D:\Разработчик\Знакомство с языками программирования\Homework6\Homework_Praktik6\Task 43\bin\Debug\net6.0\Task 43.exe
+D:\Разработчик\Знакомство с языками программирования\Homework6\Homework_Praktik6\Task 43\bin\Debug\net6.0\Task 43.deps.json
+D:\Разработчик\Знакомство с языками программирования\Homework6\Homework_Praktik6\Task 43\bin\Debug\net6.0\Task 43.runtimeconfig.json
+D:\Разработчик\Знакомство с языками программирования\Homework6\Homework_Praktik6\Task 43\bin\Debug\net6.0\Task 43.dll
+D:\Разработчик\Знакомство с языками программирования\Homework6\Homework_Praktik6\Task 43\bin\Debug\net6.0\Task 43.pdb
+D:\Разработчик\Знакомство с языками программирования\Homework6\Homework_Praktik6\Task 43\obj\Debug\net6.0\Task 43.csproj.AssemblyReference.cache
+D:\Разработчик\Знакомство с языками программирования\Homework6\Homework_Praktik6\Task 43\obj\Debug\net6.0\Task 43.GeneratedMSBuildEditorConfig.editorconfig
+D:\Разработчик\Знакомство с языками программирования\Homework6\Homework_Praktik6\Task 43\obj\Debug\net6.0\Task 43.AssemblyInfoInputs.cache
+D:\Разработчик\Знакомство с языками программирования\Homework6\Homework_Praktik6\Task 43\obj\Debug\net6.0\Task 43.AssemblyInfo.cs
+D:\Разработчик\Знакомство с языками программирования\Homework6\Homework_Praktik6\Task 43\obj\Debug\net6.0\Task 43.csproj.CoreCompileInputs.cache
+D:\Разработчик\Знакомство с языками программирования\Homework6\Homework_Praktik6\Task 43\obj\Debug\net6.0\Task 43.dll
+D:\Разработчик\Знакомство с языками программирования\Homework6\Homework_Praktik6\Task 43\obj\Debug\net6.0\refint\Task 43.dll
+D:\Разработчик\Знакомство с языками программирования\Homework6\Homework_Praktik6\Task 43\obj\Debug\net6.0\Task 43.pdb
+D:\Разработчик\Знакомство с языками программирования\Homework6\Homework_Praktik6\Task 43\obj\Debug\net6.0\Task 43.genruntimeconfig.cache
+D:\Разработчик\Знакомство с языками программирования\Homework6\Homework_Praktik6\Task 43\obj\Debug\net6.0\ref\Task 43.dll
