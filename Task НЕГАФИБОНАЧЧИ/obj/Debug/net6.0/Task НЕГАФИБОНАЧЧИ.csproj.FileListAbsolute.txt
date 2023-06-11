@@ -1,0 +1,15 @@
+D:\Разработчик\Знакомство с языками программирования\Homework6\Homework_Praktik6\Task НЕГАФИБОНАЧЧИ\obj\Debug\net6.0\Task НЕГАФИБОНАЧЧИ.csproj.AssemblyReference.cache
+D:\Разработчик\Знакомство с языками программирования\Homework6\Homework_Praktik6\Task НЕГАФИБОНАЧЧИ\obj\Debug\net6.0\Task НЕГАФИБОНАЧЧИ.GeneratedMSBuildEditorConfig.editorconfig
+D:\Разработчик\Знакомство с языками программирования\Homework6\Homework_Praktik6\Task НЕГАФИБОНАЧЧИ\obj\Debug\net6.0\Task НЕГАФИБОНАЧЧИ.AssemblyInfoInputs.cache
+D:\Разработчик\Знакомство с языками программирования\Homework6\Homework_Praktik6\Task НЕГАФИБОНАЧЧИ\obj\Debug\net6.0\Task НЕГАФИБОНАЧЧИ.AssemblyInfo.cs
+D:\Разработчик\Знакомство с языками программирования\Homework6\Homework_Praktik6\Task НЕГАФИБОНАЧЧИ\obj\Debug\net6.0\Task НЕГАФИБОНАЧЧИ.csproj.CoreCompileInputs.cache
+D:\Разработчик\Знакомство с языками программирования\Homework6\Homework_Praktik6\Task НЕГАФИБОНАЧЧИ\bin\Debug\net6.0\Task НЕГАФИБОНАЧЧИ.exe
+D:\Разработчик\Знакомство с языками программирования\Homework6\Homework_Praktik6\Task НЕГАФИБОНАЧЧИ\bin\Debug\net6.0\Task НЕГАФИБОНАЧЧИ.deps.json
+D:\Разработчик\Знакомство с языками программирования\Homework6\Homework_Praktik6\Task НЕГАФИБОНАЧЧИ\bin\Debug\net6.0\Task НЕГАФИБОНАЧЧИ.runtimeconfig.json
+D:\Разработчик\Знакомство с языками программирования\Homework6\Homework_Praktik6\Task НЕГАФИБОНАЧЧИ\bin\Debug\net6.0\Task НЕГАФИБОНАЧЧИ.dll
+D:\Разработчик\Знакомство с языками программирования\Homework6\Homework_Praktik6\Task НЕГАФИБОНАЧЧИ\bin\Debug\net6.0\Task НЕГАФИБОНАЧЧИ.pdb
+D:\Разработчик\Знакомство с языками программирования\Homework6\Homework_Praktik6\Task НЕГАФИБОНАЧЧИ\obj\Debug\net6.0\Task НЕГАФИБОНАЧЧИ.dll
+D:\Разработчик\Знакомство с языками программирования\Homework6\Homework_Praktik6\Task НЕГАФИБОНАЧЧИ\obj\Debug\net6.0\refint\Task НЕГАФИБОНАЧЧИ.dll
+D:\Разработчик\Знакомство с языками программирования\Homework6\Homework_Praktik6\Task НЕГАФИБОНАЧЧИ\obj\Debug\net6.0\Task НЕГАФИБОНАЧЧИ.pdb
+D:\Разработчик\Знакомство с языками программирования\Homework6\Homework_Praktik6\Task НЕГАФИБОНАЧЧИ\obj\Debug\net6.0\Task НЕГАФИБОНАЧЧИ.genruntimeconfig.cache
+D:\Разработчик\Знакомство с языками программирования\Homework6\Homework_Praktik6\Task НЕГАФИБОНАЧЧИ\obj\Debug\net6.0\ref\Task НЕГАФИБОНАЧЧИ.dll
